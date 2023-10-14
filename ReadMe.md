@@ -1,2 +1,2 @@
 
-git status completed..
+git status 'completed..'
